@@ -117,7 +117,7 @@ services:
       - app-network
     healthcheck:
       test: ["CMD", "redis-cli", "ping"]
-      interval: 30s
+      interval: 40s
       timeout: 5s
       retries: 3
       start_period: 10s
