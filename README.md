@@ -107,7 +107,9 @@ Navigate to [http://localhost:9090](http://localhost:9090)
 
 ## Step 6: Visualize Data with Grafana
 
-Here’s the Grafana dashboard tracking live recommendations, cache efficiency, fallback trends, and more.
+Here’s the Grafana dashboard tracking live recommendations, cache efficiency, fallback trends.
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/309d8236-6c0b-4848-a9ec-5e91931a0502" />
+
 
 Navigate to [http://localhost:3000](http://localhost:3000)
 
